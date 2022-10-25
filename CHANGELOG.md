@@ -1,5 +1,12 @@
 
 
+## [0.5.1](https://github.com/XimaLab/release-it-exp/compare/0.5.0...0.5.1) (2022-10-25)
+
+
+### UI/UX Works
+
+* fix width ([e518a8b](https://github.com/XimaLab/release-it-exp/commit/e518a8bae7545881d2f81285a1aea4b7c63aa9e0))
+
 ## [0.5.0](https://github.com/XimaLab/release-it-exp/compare/0.4.1...0.5.0) (2022-10-25)
 
 
