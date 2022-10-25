@@ -1,5 +1,17 @@
 
 
+## [0.7.0](https://github.com/XimaLab/release-it-exp/compare/0.6.0...0.7.0) (2022-10-25)
+
+
+### Features
+
+* add sentence about used package ([46c8963](https://github.com/XimaLab/release-it-exp/commit/46c896311bd52235129020098dbde9f61c015a88))
+
+
+### Bugs Fixes
+
+* add contributor to copyright ([376fecb](https://github.com/XimaLab/release-it-exp/commit/376fecb275cd91982b68bd879cd4dfff58898b1a))
+
 ## [0.6.0](https://github.com/XimaLab/release-it-exp/compare/0.5.2...0.6.0) (2022-10-25)
 
 
