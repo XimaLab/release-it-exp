@@ -1,5 +1,12 @@
 
 
+## [0.4.0](https://github.com/XimaLab/release-it-exp/compare/0.3.1...0.4.0) (2022-10-25)
+
+
+### Features
+
+* add header ([37995d6](https://github.com/XimaLab/release-it-exp/commit/37995d6c8dafee5109e17a24f1d3aea070c88fc0))
+
 ## [0.3.1](https://github.com/XimaLab/release-it-exp/compare/0.3.0...0.3.1) (2022-10-25)
 
 
