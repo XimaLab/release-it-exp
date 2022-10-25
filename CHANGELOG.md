@@ -1,5 +1,24 @@
 
 
+## [0.6.0](https://github.com/XimaLab/release-it-exp/compare/0.5.2...0.6.0) (2022-10-25)
+
+
+### Features
+
+* add copyright ([04ca694](https://github.com/XimaLab/release-it-exp/commit/04ca694102a0eaefcea8eb04db815711b048e043))
+
+
+### UI/UX Works
+
+* app logo smaller ([5820a5d](https://github.com/XimaLab/release-it-exp/commit/5820a5d4d645cdd4dc1dcc78b635f1a64489983a))
+* change banner color ([dfb1005](https://github.com/XimaLab/release-it-exp/commit/dfb1005fcd337a95ecd63c640094b54b07b7146d))
+
+
+### Bugs Fixes
+
+* remove useless html tag ([03f8853](https://github.com/XimaLab/release-it-exp/commit/03f8853d0a9f7c8ea2adcd93d94dce7624e683df))
+* version component wording ([94e62b3](https://github.com/XimaLab/release-it-exp/commit/94e62b3d6e76afea38f6bcaffbd1dbfab5f5d84a))
+
 ## [0.5.2](https://github.com/XimaLab/release-it-exp/compare/0.5.1...0.5.2) (2022-10-25)
 
 
