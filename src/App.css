@@ -30,6 +30,9 @@
 
 .App-container {
   width: 80%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
 }
 
 @keyframes App-logo-spin {
