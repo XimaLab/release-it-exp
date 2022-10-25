@@ -1,5 +1,12 @@
 
 
+## [0.4.1](https://github.com/XimaLab/release-it-exp/compare/0.4.0...0.4.1) (2022-10-25)
+
+
+### UI/UX Works
+
+* add css className ([cda4397](https://github.com/XimaLab/release-it-exp/commit/cda4397643634c78989c9e8646f28112fd656372))
+
 ## [0.4.0](https://github.com/XimaLab/release-it-exp/compare/0.3.1...0.4.0) (2022-10-25)
 
 
