@@ -1,5 +1,17 @@
 
 
+## [0.5.0](https://github.com/XimaLab/release-it-exp/compare/0.4.1...0.5.0) (2022-10-25)
+
+
+### Features
+
+* add new heading ([acc8f6f](https://github.com/XimaLab/release-it-exp/commit/acc8f6f2e54ebb4675752b998fc5c04bfb98db36))
+
+
+### UI/UX Works
+
+* update spacing between heading ([689fdcf](https://github.com/XimaLab/release-it-exp/commit/689fdcfc90870e381d5d780669cbb3eba67c2310))
+
 ## [0.4.1](https://github.com/XimaLab/release-it-exp/compare/0.4.0...0.4.1) (2022-10-25)
 
 
