@@ -1,5 +1,12 @@
 
 
+## [0.3.1](https://github.com/XimaLab/release-it-exp/compare/0.3.0...0.3.1) (2022-10-25)
+
+
+### Bugs Fixes
+
+* version test spelling ([42b8193](https://github.com/XimaLab/release-it-exp/commit/42b819309dc6d5f393eabeb2da9de261f21c7805))
+
 ## [0.3.0](https://github.com/XimaLab/release-it-exp/compare/0.2.0...0.3.0) (2022-10-25)
 
 

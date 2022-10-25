@@ -1,6 +1,6 @@
 {
   "name": "release-it-exp",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "private": true,
   "dependencies": {
     "@commitlint/cli": "^17.1.2",
