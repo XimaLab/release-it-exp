@@ -1,5 +1,12 @@
 
 
+## [0.5.2](https://github.com/XimaLab/release-it-exp/compare/0.5.1...0.5.2) (2022-10-25)
+
+
+### Bugs Fixes
+
+* emojis ([ceaabfb](https://github.com/XimaLab/release-it-exp/commit/ceaabfbbe2ae7420cb162e0e95ce1df12a71150a))
+
 ## [0.5.1](https://github.com/XimaLab/release-it-exp/compare/0.5.0...0.5.1) (2022-10-25)
 
 
