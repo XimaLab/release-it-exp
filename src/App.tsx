@@ -8,7 +8,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <Version />
+          <div style={{width: '70%'}}>
+              <h2>Welcome to my release-it experience. If you want to know more about this experience, contact-me 😇</h2>
+              <Version />
+          </div>
       </header>
     </div>
   );
