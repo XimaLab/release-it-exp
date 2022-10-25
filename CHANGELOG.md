@@ -1,5 +1,12 @@
 
 
+## [0.3.0](https://github.com/XimaLab/release-it-exp/compare/0.2.0...0.3.0) (2022-10-25)
+
+
+### Features
+
+* add version component ([73885b6](https://github.com/XimaLab/release-it-exp/commit/73885b6d0f1dbe94b64da87834002cd4697a037d))
+
 ## 0.2.0 (2022-10-25)
 
 
