@@ -12,6 +12,7 @@ function App() {
               <h2>Welcome to my release-it experience 👋🏼</h2>
               <h3>If you want to know more about this experience, contact-me 😇</h3>
               <Version />
+              <p>This project is handmade with release-it 🚀</p>
               <p className="Small-text">Ximalab 🧪 - 2022 - Maxime LE BERRE</p>
           </div>
       </header>
